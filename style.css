@@ -118,10 +118,10 @@ transform: translate(-50%, -50%);
 }
 .circle:nth-child(1){
   background:linear-gradient(90deg,transparent ,#262525 50%);
-  width: 30rem;
+  width: 25rem;
 }
 .circle:nth-child(2){
-  width: 25rem;
+  width: 20rem;
   background-image: url('Person Says He Can Find Anyone’s Anime Lookalike, Delivers (32 Pics).jpeg');
   background-size: 100%;
   background-image: no-repeat;
